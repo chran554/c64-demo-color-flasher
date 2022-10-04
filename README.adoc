@@ -1,0 +1,6 @@
+= C64 Demo - Color Flasher
+
+The "Hello World" program for the C64 assembler.
+
+image::documentation/images/color-flasher-screenshot.png[Color Flasher screenshot]
+ 
